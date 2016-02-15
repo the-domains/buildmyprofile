@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[buildmyprofile]]></title>
         <description><![CDATA[buildmyprofile]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buildmyprofile/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 00:08:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 00:15:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buildmyprofile/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://bizsupportsolutions.co.nz/top-takeaways-from-agent-connect-new-york-city-26-january-2016/</p>]]></description>
+            <link>https://thegrid.ai/buildmyprofile/b18b9241-818d-4846-9019-23de56aaf113/index.html</link>
+            <guid isPermaLink="false">b18b9241-818d-4846-9019-23de56aaf113</guid>
+            <pubDate>Mon, 15 Feb 2016 00:15:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Via
  Skype, phone or in person (when possible).  We can talk through ideas 
 and options to build your profile positively.  Just a few of the areas 
 we can help with include:</p>]]></description>
-            <link>undefined18c7db96-3414-4e5d-bca1-79e570d64925/index.html</link>
+            <link>https://thegrid.ai/buildmyprofile/18c7db96-3414-4e5d-bca1-79e570d64925/index.html</link>
             <guid isPermaLink="false">18c7db96-3414-4e5d-bca1-79e570d64925</guid>
             <pubDate>Mon, 15 Feb 2016 00:08:21 GMT</pubDate>
         </item>
