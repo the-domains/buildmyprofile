@@ -1,0 +1,28 @@
+name: buildmyprofile
+favicon: null
+layout_spectrum: 0.7333082335535437
+typography_spectrum: 0.9872179010417312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5500760718714446
+  lightness: 0.596318596508354
+  saturation: 0.5895240760874003
+  rhythmicContrast: 0.5258043073117733
+purpose: []
