@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[buildmyprofile]]></title>
+        <description><![CDATA[buildmyprofile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 00:08:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Via
+ Skype, phone or in person (when possible).  We can talk through ideas 
+and options to build your profile positively.  Just a few of the areas 
+we can help with include:</p>]]></description>
+            <link>undefined18c7db96-3414-4e5d-bca1-79e570d64925/index.html</link>
+            <guid isPermaLink="false">18c7db96-3414-4e5d-bca1-79e570d64925</guid>
+            <pubDate>Mon, 15 Feb 2016 00:08:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
